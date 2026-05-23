@@ -1,20 +1,14 @@
 [
     {
         "type": "Income",
-        "amount": 24000.0,
-        "category": "Зарплата",
+        "amount": 1000.0,
+        "category": "\u0417\u0430\u0440\u043f\u043b\u0430\u0442\u0430",
         "date": "2026-05-22"
     },
     {
         "type": "Expense",
-        "amount": 15000.0,
-        "category": "Еда",
-        "date": "2026-05-22"
-    },
-    {
-        "type": "Expense",
-        "amount": 5000.0,
-        "category": "Развлечения",
+        "amount": 1000.0,
+        "category": "\u0415\u0434\u0430",
         "date": "2026-05-22"
     }
 ]
